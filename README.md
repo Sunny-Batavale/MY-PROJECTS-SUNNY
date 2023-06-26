@@ -1,1 +1,1 @@
-# EDA_Project_hotel_Booking
+# EDA_Hotel_Booking_Project
